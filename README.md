@@ -39,15 +39,6 @@
 
 ---
 
-## Contributing
-To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes and push to the branch.
-4. Submit a pull request for review.
-
----
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
