@@ -3,8 +3,6 @@
 ## Project Overview
 **DataNexus** is a personalized learning path recommendation system designed specifically for data science enthusiasts and learners. This system leverages advanced machine learning algorithms to curate tailored learning paths based on user behavior, preferences, and progress. The ultimate goal is to optimize the learning experience and help users efficiently achieve their data science goals.
 
----
-
 ## Key Features
 - **Adaptive Learning Paths**: Dynamically recommends courses, topics, and resources based on user input and interaction history.
 - **Reinforcement Learning**: Implements reinforcement learning to optimize recommendations for long-term learning engagement.
