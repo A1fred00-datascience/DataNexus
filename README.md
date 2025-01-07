@@ -50,34 +50,6 @@ DataNexus is a personalized learning path recommendation system designed specifi
 
 ## Project Architecture
 
-Below is a **text-based flow diagram** (ASCII flowchart) illustrating DataNexus's architecture:
-
-   ┌──────────────────────┐
-     │    Front-End (UI)    │
-     └─────────┬────────────┘
-               │
-               │  User Interactions
-               ▼
-     ┌──────────────────────┐
-     │   Backend Services   │
-     │ (Python/Node/Go/etc.)│
-     └─────────┬────────────┘
-               │
-               │  API Calls / Data Logging
-               ▼
-     ┌──────────────────────┐
-     │  Recommendation Sys  │
-     │   Collaborative & RL │
-     └─────────┬────────────┘
-               │
-               │  Batch / Real-Time Updates
-               ▼
-     ┌──────────────────────┐
-     │      Data Store      │
-     │  (User, Course, etc.)│
-     └──────────────────────┘
-
-
 - **Front-End (UI) or API**: Renders recommendations and captures user feedback.  
 - **Backend Services**: Manages user sessions, authentication, and API requests.  
 - **Recommendation System**: Implements collaborative filtering, reinforcement learning, and other algorithms.  
