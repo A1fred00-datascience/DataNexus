@@ -1,6 +1,6 @@
-# DataNexus
+# DataPath
 
-DataNexus is a personalized learning path recommendation system designed specifically for data science enthusiasts. By leveraging advanced machine learning and reinforcement learning techniques, DataNexus curates adaptive learning paths to help users achieve their data science goals efficiently.
+DataPath is a personalized learning path recommendation system designed specifically for data science enthusiasts. By leveraging advanced machine learning and reinforcement learning techniques, DataNexus curates adaptive learning paths to help users achieve their data science goals efficiently.
 
 ---
 
@@ -54,12 +54,6 @@ DataNexus is a personalized learning path recommendation system designed specifi
 - **Backend Services**: Manages user sessions, authentication, and API requests.  
 - **Recommendation System**: Implements collaborative filtering, reinforcement learning, and other algorithms.  
 - **Data Store**: Houses user data, content metadata, and logs for historical insights.
-
-> **Tip:** If you want a graphical diagram (e.g., PNG or SVG), simply create or export one from your favorite diagramming tool, place the image file in your repository, and reference it like this:
-
-> ```markdown
-> ![Project Architecture Diagram](path/to/diagram.png)
-> ```
 
 ---
 
